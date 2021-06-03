@@ -32,6 +32,7 @@
     "./package.json": "./package.json",
     "./dist/*": "./dist/*",
     "./lib/*": "./lib/*",
+    "./lib/inflate.js": "./lib/inflate.js",
     "./lib/zlib/*": "./lib/zlib/*",
     "./lib/utils/*": "./lib/utils/*"
   },
